@@ -6,7 +6,7 @@
 
 import os
 
-# this is a constant (not doing to change)
+# this is a constant (not going to change)
 API_KEY = os.getenv("API_KEY")
 
 
